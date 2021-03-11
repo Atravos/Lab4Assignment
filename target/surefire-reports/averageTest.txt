@@ -1,0 +1,9 @@
+-------------------------------------------------------------------------------
+Test set: averageTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.002 sec <<< FAILURE!
+averageTest.testTestGreater()  Time elapsed: 0.001 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at ArrayHigherNumberProblem.testGreater(ArrayHigherNumberProblem.java:29)
+	at averageTest.testTestGreater(averageTest.java:24)
+
